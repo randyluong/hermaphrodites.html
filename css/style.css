@@ -4,7 +4,6 @@
 .heading {
     text-align: center;
     font-family: "Roboto Mono", Arial, Helvetica, sans-serif;
-    padding: 25px;
 }
 
 /* BACKGROUND */
@@ -112,7 +111,7 @@
 #clownfishcap {
     scale: 1.2;
     position: relative;
-    bottom: 600px;
+    bottom: 650px;
     left: 650px;
     border: 4px solid;
     padding: 30px;
@@ -231,7 +230,7 @@
     font-size: 15px;
     font-style: italic;
     position: relative;
-    bottom: 95px;
+    bottom: 113px;
     left: 980px;
     font-family: "Roboto Mono", Arial, Helvetica, sans-serif;
   }
@@ -242,7 +241,7 @@
     font-size: 15px;
     font-style: italic;
     position: relative;
-    bottom: 840px;
+    bottom: 858px;
     left: 1400px;
     font-family: "Roboto Mono", Arial, Helvetica, sans-serif;
   }
@@ -253,7 +252,45 @@
     font-size: 15px;
     font-style: italic;
     position: relative;
-    bottom: 560px;
+    bottom: 626px;
     left: 1150px;
     font-family: "Roboto Mono", Arial, Helvetica, sans-serif;
   }
+
+  /* learnheading */
+
+  #genderheading {
+    font-family: "Roboto Mono", Arial, Helvetica, sans-serif;
+    margin-top: 100px;
+    padding-left: 30px;
+  }
+
+  #genderbody {
+    font-size: 18px;
+    font-family: "Roboto Mono", Arial, Helvetica, sans-serif;
+    padding-left: 30px;
+    margin-right: 800px;
+  }
+
+  /* Sheepheads img */
+#sheepsheads {
+    scale: 1.5;
+    float:  right;
+    position: relative;
+    right: 300px;
+    bottom: 150px;
+    
+}
+/*  */
+#flowerheading {
+    font-family: "Roboto Mono", Arial, Helvetica, sans-serif;
+    padding-left: 120px;
+    margin-top: 90px;
+}
+
+#flowercap {
+    font-size: 18px;
+    font-family: "Roboto Mono", Arial, Helvetica, sans-serif;
+    padding-left: 120px;
+    margin-right: 800px;
+}
